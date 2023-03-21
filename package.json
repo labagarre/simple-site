@@ -1,0 +1,26 @@
+{
+  "name": "simple-site-brad-schiff",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "css-loader": "^6.7.3",
+    "http-proxy-middleware": "^2.0.6",
+    "normalize": "^0.3.1",
+    "postcss-import": "^15.1.0",
+    "postcss-mixins": "^9.0.4",
+    "postcss-nested": "^6.0.1",
+    "postcss-simple-vars": "^7.0.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "postcss-loader": "^7.0.2"
+  }
+}
